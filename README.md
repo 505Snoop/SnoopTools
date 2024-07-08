@@ -1,6 +1,3 @@
-![IMG_20240708_140715_702](https://github.com/505Snoop/SnoopTools/assets/166966253/4e5a814d-cc92-4225-8f03-94aee1ba5caa)
-
-
 # SnoopTools
 
 SnoopTools is a versatile collection of scripts designed for various cybersecurity activities, including WordPress brute force attacks, CMS checks, ransomware simulations, and more. Whether you're a seasoned hacker or just diving into cybersecurity, SnoopTools provides the utilities you need. Happy hacking! 🛡🔒
