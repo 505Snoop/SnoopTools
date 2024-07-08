@@ -1,4 +1,4 @@
-requests==2.25.1
+requests
 beautifulsoup4
 pyfiglet
 datetime
