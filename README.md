@@ -15,6 +15,7 @@ git clone https://github.com/505Snoop/SnoopTools/
 
 ### Install Dependencies
 ```bash
+cd SnoopTools
 pip3 install -r requirements.txt
 apt install python-cryptography
 pip3 install pyfiglet
