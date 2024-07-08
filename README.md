@@ -1,19 +1,33 @@
+```markdown
 # SnoopTools
-This tool is a collection of scripts that can be used for attack/hacktivism activities such as WordPress brute force, CMS checking, ransomware attack, and others. Happy hacking! 🛡🔒
 
-![IMG_20240708_140715_702](https://github.com/505Snoop/SnoopTools/assets/166966253/2bc789a6-2f76-4ab7-8472-71a7ca87115b)
+SnoopTools is a versatile collection of scripts designed for various cybersecurity activities, including WordPress brute force attacks, CMS checks, ransomware simulations, and more. Whether you're a seasoned hacker or just diving into cybersecurity, SnoopTools provides the utilities you need. Happy hacking! 🛡🔒
 
-Python Version : 3.11
+![SnoopTools](https://github.com/505Snoop/SnoopTools/assets/166966253/2bc789a6-2f76-4ab7-8472-71a7ca87115b)
 
-Install Depencies :
- pip3 install -r requirements.txt
- apt install python-cryptography
- pip3 install -r requirements.txt
- python3 -m pip install pyfiglet
- pip3 install beautifulsoup4
+## Requirements
 
-Usage Tools :
- python3 snoopv2.py
+**Python Version**: 3.11
 
-Credits, @SnHaxor
-Author, @SnoopXCOMP
+### Install Dependencies
+
+```bash
+pip3 install -r requirements.txt
+apt install python-cryptography
+pip3 install pyfiglet
+pip3 install beautifulsoup4
+```
+
+## Usage
+
+Run the main script using:
+
+```bash
+python3 snoopv2.py
+```
+
+## Credits
+
+- **Author**: [@SnoopXCOMP](https://github.com/SnoopXCOMP)
+- **Contributor**: [@SnHaxor](https://github.com/SnHaxor)
+```
