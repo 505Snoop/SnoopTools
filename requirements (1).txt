@@ -1,0 +1,7 @@
+requests==2.25.1
+beautifulsoup4
+pyfiglet
+datetime
+urllib.parse
+cryptography
+concurrent.futures
