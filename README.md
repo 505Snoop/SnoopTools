@@ -8,8 +8,12 @@ SnoopTools is a versatile collection of scripts designed for various cybersecuri
 
 **Python Version**: 3.11
 
-### Install Dependencies
+## Install Program :
+```bash
+git clone https://github.com/505Snoop/SnoopTools/
+```
 
+### Install Dependencies
 ```bash
 pip3 install -r requirements.txt
 apt install python-cryptography
@@ -18,7 +22,6 @@ pip3 install beautifulsoup4
 ```
 
 ## Usage
-
 Run the main script using:
 
 ```bash
